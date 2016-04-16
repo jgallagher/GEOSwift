@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 andreacremaschi. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 @import geos;
 
 //! Project version number for GEOSwift.
